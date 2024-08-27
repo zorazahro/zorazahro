@@ -9,7 +9,7 @@ Ich bin Webentwicklerin und absolviere derzeit eine Weiterbildung bei DCI (Digit
 - 🌱 Ständig am Vertiefen: API-Entwicklung, Datenbanken, Cloud-Technologien
 - 🎯 Mein Ziel: Erfolgreich als Full-Stack-Webentwicklerin zu arbeiten und innovative, nutzerfreundliche Anwendungen zu entwickeln
 - 👩‍🎓 Weiterbildung: Webentwicklung bei DCI (Digital Career Institute)
-- 🎓 Am Ende meiner Weiterbildung werde ich ein Abschlussprojekt präsentieren und ein Praktikum absolvieren, um meine Fähigkeiten in der Praxis weiter zu festigen.eue berufliche Chancen ab 01. august.2025
+- 🎓 Am Ende meiner Weiterbildung werde ich ein Abschlussprojekt präsentieren und ein Praktikum absolvieren, um meine Fähigkeiten in der Praxis weiter zu festigen.
 - 👀 Offen für neue berufliche Chancen ab 01.August.2025
 ### 🛠 Fähigkeiten & Werkzeuge
 
@@ -27,18 +27,24 @@ Ich bin Webentwicklerin und absolviere derzeit eine Weiterbildung bei DCI (Digit
 
 ### 📈 Meine Projekte
 
-- **Projekt 1: PhotoGallery**  
-  Ein Projekt zur Erstellung einer interaktiven Foto-Galerie. Nutzer können Fotos hochladen, ansehen und löschen. Die Galerie wurde mit **HTML** und **CSS**erstellt. Das Backend verarbeitet die Bilddateien und speichert sie in einer Datenbank (**MongoDB**), während das Frontend eine benutzerfreundliche Oberfläche bietet.
+- [**Projekt 1: PhotoGallery**]( https://github.com/zorazahro/Zahra-Az.git)
+  Ein Projekt zur Erstellung einer interaktiven Foto-Galerie. Nutzer können Fotos hochladen, ansehen und löschen. Die Galerie wurde mit **HTML** und **CSS**erstellt, während das Frontend eine benutzerfreundliche Oberfläche bietet.
 
-- **Projekt 2: Portfolio**  
-  Dieses Projekt ist mein persönliches Portfolio, in dem ich meine Fähigkeiten und Projekte präsentiere. Es wurde mit **HTML** und **CSS** gebaut. Die Seite enthält eine übersichtliche Darstellung meiner abgeschlossenen Projekte sowie Kontaktinformationen. Für ein modernes Design habe ich **CSS-Frameworks** wie **Bootstrap** verwendet.
+- [**Projekt 2: Portfolio**](https://github.com/zorazahro/UIB-Final-Project-zorazahro.git)
+  Dieses Projekt ist mein persönliches Portfolio, in dem ich meine Fähigkeiten und Projekte präsentiere. Es wurde mit **HTML** und **CSS** gebaut. Die Seite enthält eine übersichtliche Darstellung meiner abgeschlossenen Projekte sowie Kontaktinformationen. 
 
-- **Projekt 3: Image Converter zu ASCII-Art**  
+- [**Projekt 3:Image Converter zu ASCII-Art**](https://github.com/zorazahro/ProjektProgramingBasic.git)
   In diesem Projekt habe ich einen Bildkonverter entwickelt, der ein hochgeladenes Bild in **ASCII-Art** umwandelt. Der Algorithmus analysiert die Helligkeit der Bildpixel und ersetzt sie durch entsprechende ASCII-Zeichen. Dieses Projekt wurde mit **JavaScript** und **Node.js** umgesetzt und bietet eine interessante Möglichkeit, visuelle Kunstwerke in Textform darzustellen.
 
 Mein nächstes großes Projekt wird mein **Abschlussprojekt** sein, bei dem ich meine gelernten Fähigkeiten in einem umfangreicheren Kontext anwenden werde.
 
 [**Weitere Projekte findest du hier**](https://github.com/zorazahro?tab=repositories)
+
+### 📜 Lizenz
+
+Dieser Code ist unter der [MIT Lizenz](https://opensource.org/licenses/MIT) lizenziert. Sie können die Lizenzbedingungen in der [LICENSE-Datei](./LICENSE) finden.
+
+
 
 
 
