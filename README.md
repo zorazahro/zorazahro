@@ -6,7 +6,7 @@
 
 Ich bin Webentwicklerin und absolviere derzeit eine Weiterbildung bei DCI (Digital Career Institute) im Bereich **Webentwicklung**. Während dieser Weiterbildung erwerbe ich fundierte Kenntnisse in modernen Technologien und arbeite an praxisnahen Projekten, um meine Fähigkeiten in **Frontend** und **Backend** weiterzuentwickeln.
 
-- 💻 Derzeit lerne ich: HTML, CSS, JavaScript, Node.js ,React
+- 💻 Derzeit lerne ich: HTML, CSS, JavaScript, Node.js ,React, Express, MongoDB, Mongoose
 - 🌱 Ständig am Vertiefen: API-Entwicklung, Datenbanken, Cloud-Technologien
 - 🎯 Mein Ziel: Erfolgreich als Full-Stack-Webentwicklerin zu arbeiten und innovative, nutzerfreundliche Anwendungen zu entwickeln
 - 👩‍🎓 Weiterbildung: Webentwicklung bei DCI (Digital Career Institute)
