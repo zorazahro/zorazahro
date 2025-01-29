@@ -41,6 +41,8 @@ Ich bin Webentwicklerin und absolviere derzeit eine Weiterbildung bei DCI (Digit
 - [**Projekt 3:Image Converter zu ASCII-Art**](https://github.com/zorazahro/ProjektProgramingBasic.git)
   In diesem Projekt habe ich einen Bildkonverter entwickelt, der ein hochgeladenes Bild in **ASCII-Art** umwandelt. Der Algorithmus analysiert die Helligkeit der Bildpixel und ersetzt sie durch entsprechende ASCII-Zeichen. Dieses Projekt wurde mit **JavaScript** und **Node.js** umgesetzt und bietet eine interessante Möglichkeit, visuelle Kunstwerke in Textform darzustellen.
 
+- [**Projekt 4:Frontend Projekt mit React-Restaurant Bestellservice-**](https://github.com/zorazahro/React-projekt-casablanca-restaurant))
+
 Mein nächstes großes Projekt wird mein **Abschlussprojekt** sein, bei dem ich meine gelernten Fähigkeiten in einem umfangreicheren Kontext anwenden werde.
 
 [**Weitere Projekte findest du hier**](https://github.com/zorazahro?tab=repositories)
