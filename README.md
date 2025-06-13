@@ -58,7 +58,7 @@ Ich bin eine kreative Webentwicklerin mit Blick fürs Detail, einer strukturiert
 - 📈 Admin-Dashboard: Bildverwaltung, Buchungsstatistiken, Preisübersicht
 - 🎨 Mein Beitrag: UI/UX, Galerie-System, E-Mail-Kommunikation, Buchungsanalyse
 
-👉 [Code auf GitHub](https://github.com/zorazahro/FinalProject-MyLuxZen)
+👉 [Code auf GitHub](https://github.com/MinasAyounAlsoud/Myluxzen.git)
 
 ### 🖼️ [PhotoGallery](https://github.com/zorazahro/Zahra-Az.git)
 > Interaktive Galerie mit Upload, Vorschau und Löschfunktion – ideal für kleine Foto-Apps oder Portfolios
