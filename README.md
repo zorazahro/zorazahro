@@ -1,10 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:6EE7B7&height=160&section=header&text=Hi%20👋%2C%20ich%20bin%20Zahra&fontSize=36&fontColor=ffffff&animation=twinkling&width=1000" style="width:100%;"/>
+<!-- Header stylé, moderne et sans emojis -->
 
-<h2 align="center">Fullstack Entwicklerin (MERN) mit ❤️ für UX/UI & kreative Lösungen</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C3AED6,100:7ED6DF&height=160&section=header&text=Hi%2C%20ich%20bin%20Zahra&fontSize=36&fontColor=ffffff&animation=twinkling&width=1000" style="width:100%;"/>
+
+<h2 align="center" style="color:#444;">Fullstack Software-Webentwicklerin || MERN-Stack mit Fokus auf UX/UI & kreative Lösungen</h2>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=JavaScript+Liebhaberin+%F0%9F%96%A5;UX%2FUI+Design+mit+System+%F0%9F%92%8E;Frontend+%2B+Backend+mit+Leidenschaft+%E2%9C%A8;Code+der+funktioniert+und+inspiriert+%F0%9F%8E%A8" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=JavaScript+Liebhaberin;UX%2FUI+Design+mit+System;Frontend+%2B+Backend+mit+Leidenschaft;Code+der+funktioniert+und+inspiriert" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -112,6 +117,7 @@ Ich bin eine kreative Webentwicklerin mit Blick fürs Detail, einer strukturiert
 ## Kontakt
 
 📧 fatima.azekraoui@dci-student.org  
+📧 msilas1509@yahoo.frWebsite für ein marokkanisches Restaurant (Full-Stack React)Statistikvisualisierung und Deployment
 🌍 [github.com/zorazahro](https://github.com/zorazahro)  
 📍 Rohlstorf, Deutschland  
 🔗 LinkedIn bald verfügbar
