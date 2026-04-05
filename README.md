@@ -23,6 +23,24 @@ Ich bin eine kreative Webentwicklerin mit Blick fürs Detail, einer strukturiert
 📍 Remote-ready, teilzeit- oder vollzeitbereit ab sofort
 
 ---
+---
+
+## 💼 Berufserfahrung
+
+### Anwendungsentwicklerin (m/w/d)  
+**[Logopak Systeme GmbH & Co. KG](chatgpt://generic-entity?number=0)**
+
+Ich arbeite an der Entwicklung interner Unternehmensanwendungen mit Fokus auf Prozessdigitalisierung und datengetriebene Logik.
+
+- Entwicklung und Pflege von Webanwendungen (Frontend & Backend)
+- Umsetzung komplexer Geschäftslogik direkt in SQL (MariaDB)
+- Einsatz der Low-Code-Plattform Simplifier zur schnellen Umsetzung von Business-Prozessen
+- Implementierung von REST-Schnittstellen
+
+**Highlight:**
+- Entwicklung einer BANF-Applikation mit automatisiertem Genehmigungsworkflow  
+  → Rollenbasierte Freigabelogik (SQL-driven)  
+  → Prozessautomatisierung und Transparenzsteigerung  
 
 ## Mein Tech Stack
 
@@ -41,6 +59,7 @@ Ich bin eine kreative Webentwicklerin mit Blick fürs Detail, einer strukturiert
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-555555?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -49,6 +68,10 @@ Ich bin eine kreative Webentwicklerin mit Blick fürs Detail, einer strukturiert
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Render](https://img.shields.io/badge/Render-46E2B4?style=for-the-badge&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+### Enterprise & Low-Code
+![Simplifier](https://img.shields.io/badge/Simplifier-Low--Code-blue?style=for-the-badge)
+![ERP](https://img.shields.io/badge/ERP-proAlpha-grey?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Data%20Driven-orange?style=for-the-badge)
 
 ---
 
