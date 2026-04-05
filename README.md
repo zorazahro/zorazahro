@@ -67,7 +67,9 @@ Ich arbeite an der Entwicklung interner Unternehmensanwendungen mit Fokus auf Pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Render](https://img.shields.io/badge/Render-46E2B4?style=for-the-badge&logo=render)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)### Enterprise & Low-Code
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+### Enterprise & Low-Code
 
 <p align="left">
 
@@ -76,7 +78,7 @@ Ich arbeite an der Entwicklung interner Unternehmensanwendungen mit Fokus auf Pr
 <img src="https://img.shields.io/badge/Simplifier-4F46E5?style=for-the-badge&logo=code&logoColor=white" />
 
 </p>
----
+
 
 ## Projekte in Aktion
 
