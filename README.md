@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C3AED6,100:7ED6DF&height=160&section=header&text=Hi%2C%20ich%20bin%20Zahra&fontSize=36&fontColor=ffffff&animation=twinkling&width=1000" style="width:100%;"/>
 
-<h2 align="center" style="color:#444;">Fullstack Software-Webentwicklerin || MERN-Stack mit Fokus auf UX/UI & kreative Lösungen</h2>
+<h2 align="center" style="color:#444;">Fullstack Software-Webentwicklerin || MERN-Stack + SQL mit Fokus auf UX/UI & kreative Lösungen |Enterprise Applications & Workflow Automation</h2>
 
 
 <p align="center">
@@ -15,15 +15,14 @@
 
 ##  Über mich
 
-Ich bin eine kreative Webentwicklerin mit Blick fürs Detail, einer strukturierten Denkweise und einem Faible für visuelle Kommunikation. Nach mehreren Jahren in der Produktionsplanung habe ich meine Leidenschaft für Webentwicklung entdeckt und mich bewusst für einen beruflichen Neustart entschieden.
+Ich bin eine kreative Webentwicklerin mit Blick fürs Detail, einer strukturierten Denkweise und einem Faible für visuelle Kommunikation. Nach mehreren Jahren in der Produktionsplanung habe ich meine Leidenschaft für Webentwicklung entdeckt und mich bewusst für einen beruflichen Neustart entschieden. Heute arbeite ich  an realen Unternehmensanwendungen im industriellen Umfeld.
 
-🔁 Quereinsteigerin mit fundierter Technikausbildung  
-🌱 MERN Stack + Fokus auf UX, Design und Benutzerführung  
-🧠 Problemlöserin, Teamplayerin & lebenslange Lernerin  
-📍 Remote-ready, teilzeit- oder vollzeitbereit ab sofort
+🔁 Quereinsteigerin mit strukturierter Denkweise  
+💻 MERN Stack + SQL + Low-Code (Simplifier)  
+🧠 Fokus auf UX, klare Prozesse und skalierbare Lösungen  
+🚀 Erfahrung mit ERP-Systemen und Workflow-Automatisierung  
+📍 Remote-ready, teilzeit- oder vollzeitbereit
 
----
----
 
 ## 💼 Berufserfahrung
 
@@ -43,6 +42,7 @@ Ich arbeite an der Entwicklung interner Unternehmensanwendungen mit Fokus auf Pr
   → Prozessautomatisierung und Transparenzsteigerung  
 
 ## Mein Tech Stack
+Ich entwickle nicht nur Benutzeroberflächen, sondern baue funktionale Systeme mit klarer Business-Logik und echtem Mehrwert.
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,7 +78,24 @@ Ich arbeite an der Entwicklung interner Unternehmensanwendungen mit Fokus auf Pr
 <img src="https://img.shields.io/badge/Simplifier-4F46E5?style=for-the-badge&logo=code&logoColor=white" />
 
 </p>
+---
 
+## Berufserfahrung (Auszug)
+
+### <img src="https://www.logopak.com/fileadmin/_processed_/c/8/csm_Logopak_Logo_4c_4c3e7b4f7c.png" width="90"/> Logopak Systeme GmbH & Co. KG
+
+**Projekt:** BANF Workflow App
+
+Interne Anwendung zur Verwaltung von Bestellanforderungen (BANF) mit automatisiertem Genehmigungsprozess.
+
+- Mehrstufiger Freigabe-Workflow (Team → Abteilung → Bereich)
+- Rollenbasierte Berechtigungen direkt in SQL umgesetzt
+- Status-Tracking: Submitted · In Approval · Approved · Rejected
+- Bearbeitung und erneutes Einreichen abgelehnter Anfragen
+- Automatische E-Mail-Benachrichtigungen
+- Datengetriebene Business-Logik direkt in der Datenbank
+
+**Technologien:** MariaDB · SQL · Simplifier · REST
 
 ## Projekte in Aktion
 
