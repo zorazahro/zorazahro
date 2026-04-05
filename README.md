@@ -68,10 +68,13 @@ Ich arbeite an der Entwicklung interner Unternehmensanwendungen mit Fokus auf Pr
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Render](https://img.shields.io/badge/Render-46E2B4?style=for-the-badge&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
 ### Enterprise & Low-Code
-![Simplifier](https://img.shields.io/badge/Simplifier-Low--Code-blue?style=for-the-badge)
-![ERP](https://img.shields.io/badge/ERP-proAlpha-grey?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Data%20Driven-orange?style=for-the-badge)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Low-Code](https://img.shields.io/badge/Low--Code-Simplifier-4F46E5?style=for-the-badge&logo=code&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP-proAlpha-grey?style=for-the-badge&logo=sap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20Driven-orange?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
