@@ -67,15 +67,15 @@ Ich arbeite an der Entwicklung interner Unternehmensanwendungen mit Fokus auf Pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Render](https://img.shields.io/badge/Render-46E2B4?style=for-the-badge&logo=render)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)### Enterprise & Low-Code
 
-### Enterprise & Low-Code
+<p align="left">
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Low-Code](https://img.shields.io/badge/Low--Code-Simplifier-4F46E5?style=for-the-badge&logo=code&logoColor=white)
-![ERP](https://img.shields.io/badge/ERP-proAlpha-grey?style=for-the-badge&logo=sap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20Driven-orange?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Simplifier-4F46E5?style=for-the-badge&logo=code&logoColor=white" />
 
+</p>
 ---
 
 ## Projekte in Aktion
